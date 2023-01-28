@@ -1,9 +1,3 @@
-// PROG2 VT2021, Inlämningsuppgift, del 1
-// Grupp 002
-// Tyr Hullmann tyhu6316
-// Evelina Bisell evbi5086
-// Kim Rosenqvist kiro5530
-
 import java.util.Objects;
 
 public class Edge<T> {
